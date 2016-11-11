@@ -22,4 +22,3 @@
 }());
 
 // Place any jQuery/helper plugins in here.
-window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')
